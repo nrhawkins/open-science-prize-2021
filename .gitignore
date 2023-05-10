@@ -1,0 +1,9 @@
+# The name of the virtual environment
+env/
+tmp/
+.env
+.ipynb_checkpoints
+ssh
+.ssh
+oleary-thomas-agarwal-abhishek-jaderberg-ben-qd-osp-2022/
+
